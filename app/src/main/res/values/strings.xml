@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Debt Buddy</string>
+    <string name="welcome">Welcome to the debt buddy app. This test will cost €299,99.</string>
+</resources>
